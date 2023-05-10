@@ -4,7 +4,9 @@ class Principal {
         double a = 10;
         double b = 8;
         double c = 10;
-        double media = (a + b + c) / 3;
+        double d = 6;
+        double e = 7;
+        double media = (a + b + c + d + e) / 5;
         System.out.println("Média: " + media);
     }
 }
